@@ -8,4 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please see an updated CV [here](becca-cs.github.io/exampleCV.pdf).
+Please see an updated CV [here](./becca-cs/becca-cs.github.io/exampleCV.pdf).
