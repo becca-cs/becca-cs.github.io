@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-  You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?user=b2kD89sAAAAJ&hl=en)}}">my Google Scholar profile</a>.</u>
+  You can find an updated list of papers on [Google Scholar](https://scholar.google.com/citations?user=b2kD89sAAAAJ&hl=en) as well.
 
 # Published papers
 **Cleveland Stout, R.**, Proistosescu, C., and G.H. Roe (2023). Fingerprinting low-frequency Last Millennium temperature variability in forced and unforced climate models. *Journal of Climate,* 36 (20), 7005-7023. doi: [10.1175/JCLI-D-22-0810.1](https://journals.ametsoc.org/view/journals/clim/36/20/JCLI-D-22-0810.1.xml. [[pdf](https://becca-cs.github.io/files/clim-JCLI-D-22-0810.1.pdf)]
