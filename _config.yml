@@ -85,7 +85,7 @@ author:
   bio              : "researcher, PhD student"
   location         : "Seattle, WA"
   employer         : "University of Washington"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=b2kD89sAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "becca_cs"
+  twitter          : "rclevelandstout"
   vine             :
   weibo            :
   xing             :
