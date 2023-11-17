@@ -1,16 +1,10 @@
 # main links links
 main:
-  - title: "Publications and Presentations"
+  - title: "Publications"
     url: /publications/
 
   - title: "Research"
-    url: /research/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Interests"
-    url: /interests/
+    url: /research/
     
   - title: "CV"
     url: /cv/
