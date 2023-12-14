@@ -12,4 +12,6 @@ Welcome! I am currently a fourth-year PhD student in the Atmospheric Sciences de
 Feel free to contact me at rrcs (at) uw (dot) edu!
 
 ##### News
-*Oct 2023* My paper on understanding forced and unforced temperature variability over the Last Millennium was published in Journal of Climate! Check it out [here](https://journals.ametsoc.org/view/journals/clim/36/20/JCLI-D-22-0810.1.xml)
+*Dec 2023* My undergrad thesis on the impact of relative sea-level histories on coral fossil elevations was published in Geophysical Journal International! You can read it [here](10.1093/gji/ggad476).
+
+*Oct 2023* My paper on understanding forced and unforced temperature variability over the Last Millennium was published in Journal of Climate! Check it out [here](https://journals.ametsoc.org/view/journals/clim/36/20/JCLI-D-22-0810.1.xml)!
